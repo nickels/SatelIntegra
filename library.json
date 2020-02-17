@@ -1,0 +1,13 @@
+{
+  "id": "{B37230BE-7BE8-D74C-E13D-A9C06B3F620D}",
+  "author": "N. Nijman",
+  "name": "Satel Integram ETHM-1 Integration Modile",
+  "url": "https://github.com/nickels/SatelIntegra",
+  "compatibility": {
+    "version": "5.0",
+    "date": 1531605600
+  },
+  "version": "1.0",
+  "build": 0,
+  "date": 1567245576
+}

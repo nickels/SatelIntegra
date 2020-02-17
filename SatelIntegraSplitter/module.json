@@ -1,0 +1,18 @@
+{
+    "id": "{89FD72A2-8491-9BBD-252D-D70A36D33489}",
+    "name": "Satel Integra Splitter",
+    "url": "https://github.com/nickels/SatelIntegra/blob/master/README.md",
+    "type": 2,
+    "vendor": "Satel",
+    "aliases": [
+        "Satel Integra Splitter"
+    ],
+    "parentRequirements": [],
+    "childRequirements": [
+        // "{36EA4430-7047-C11D-0854-43391B14E0D7}"
+    ],
+    "implemented": [
+        // "{731D7808-F7C4-FA98-2132-0FAB19A802C1}"
+    ],
+    "prefix": "SIS"
+}
